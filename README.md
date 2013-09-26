@@ -53,10 +53,10 @@ All KGS games are publicly available.  Here are mine, [`mrcactu5`](http://www.go
 
 Here is problem 6 from the *Life and Death Encyclopedia*:
 
-> (;AB[be][bf][cb][cc][cd][eb]AW[ab][ae][ba][bb][bc][bd]C[problem 6])
+    (;AB[be][bf][cb][cc][cd][eb]AW[ab][ae][ba][bb][bc][bd]C[problem 6])
 
 One line - it reads on any `sgf` editor.  Then we can join the games together:
 
-> ((C[game A])(C[game B])(C[game C]))
+    ((C[game A])(C[game B])(C[game C]))
 
 In this way I printed all 900 problems from Vol 1.  
